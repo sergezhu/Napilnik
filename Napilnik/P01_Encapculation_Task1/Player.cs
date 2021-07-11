@@ -1,29 +1,37 @@
+using System;
+
 namespace Napilnik.Napilnik.P01_Encapculation_Task1
 {
-    class Weapon
+    internal class Player : IDamageable
     {
-        public int Damage;
-        public int Bullets;
-
-        public void Fire(Player player)
+        public event Action Dead;
+        
+        private int _health;
+        public Player(int health)
         {
-            player.Health -= Damage;
-            Bullets -= 1;
+            _health = health;
         }
-    }
-
-    class Player
-    {
-        public int Health;
-    }
-
-    class Bot
-    {
-        public Weapon Weapon;
-
-        public void OnSeePlayer(Player player)
+        public void AcceptDamage(int damageValue)
         {
-            Weapon.Fire(player);
+            if(IsDead())
+                throw new Exception($"Player is dead already");
+            
+            if(damageValue < 0)
+                throw new ArgumentOutOfRangeException($"Incoming damage must be greater than zero");
+            
+            
+            _health -= damageValue;
+
+            if (IsDead())
+            {
+                _health = 0;
+                Dead?.Invoke();
+            }
+        }
+
+        public bool IsDead()
+        {
+            return _health <= 0;
         }
     }
 }

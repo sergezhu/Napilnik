@@ -1,0 +1,16 @@
+J:\MAIN_WORK\IJUNIOR\Napilnik\Napilnik\obj\Debug\net5.0\Napilnik.csproj.AssemblyReference.cache
+J:\MAIN_WORK\IJUNIOR\Napilnik\Napilnik\obj\Debug\net5.0\Napilnik.GeneratedMSBuildEditorConfig.editorconfig
+J:\MAIN_WORK\IJUNIOR\Napilnik\Napilnik\obj\Debug\net5.0\Napilnik.AssemblyInfoInputs.cache
+J:\MAIN_WORK\IJUNIOR\Napilnik\Napilnik\obj\Debug\net5.0\Napilnik.AssemblyInfo.cs
+J:\MAIN_WORK\IJUNIOR\Napilnik\Napilnik\obj\Debug\net5.0\Napilnik.csproj.CoreCompileInputs.cache
+J:\MAIN_WORK\IJUNIOR\Napilnik\Napilnik\bin\Debug\net5.0\Napilnik.exe
+J:\MAIN_WORK\IJUNIOR\Napilnik\Napilnik\bin\Debug\net5.0\Napilnik.deps.json
+J:\MAIN_WORK\IJUNIOR\Napilnik\Napilnik\bin\Debug\net5.0\Napilnik.runtimeconfig.json
+J:\MAIN_WORK\IJUNIOR\Napilnik\Napilnik\bin\Debug\net5.0\Napilnik.runtimeconfig.dev.json
+J:\MAIN_WORK\IJUNIOR\Napilnik\Napilnik\bin\Debug\net5.0\Napilnik.dll
+J:\MAIN_WORK\IJUNIOR\Napilnik\Napilnik\bin\Debug\net5.0\ref\Napilnik.dll
+J:\MAIN_WORK\IJUNIOR\Napilnik\Napilnik\bin\Debug\net5.0\Napilnik.pdb
+J:\MAIN_WORK\IJUNIOR\Napilnik\Napilnik\obj\Debug\net5.0\Napilnik.dll
+J:\MAIN_WORK\IJUNIOR\Napilnik\Napilnik\obj\Debug\net5.0\ref\Napilnik.dll
+J:\MAIN_WORK\IJUNIOR\Napilnik\Napilnik\obj\Debug\net5.0\Napilnik.pdb
+J:\MAIN_WORK\IJUNIOR\Napilnik\Napilnik\obj\Debug\net5.0\Napilnik.genruntimeconfig.cache
